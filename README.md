@@ -24,13 +24,14 @@ pip2 install -r requirements.txt
 ```
 
 ## How to use it ##
-To start the program you will have to run a file named zad2.py (Polish for exercise 2), which will require:
-* Python 2.7 (I recommend Anaconda)
-* OpenCV (I used 2.4.13)
+To start the program you will have to run a file named overlay.py, which will require:
+* Python 2.7
+* OpenCV 
 * Numpy
 * dlib
 * pygame
 * PyOpenGL
+* Flask
 
 You can download all of the libraries above either from PIP or from Christoph Gohlke's excellent website: [http://www.lfd.uci.edu/~gohlke/pythonlibs/](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
